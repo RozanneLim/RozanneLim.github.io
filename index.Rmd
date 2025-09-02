@@ -17,7 +17,7 @@ output:
 
 Hello, I'm a graduate student in MHS Epidemiology at Johns Hopkins University Bloomberg School of Public Health. I am passionate about using data to improve public health outcomes. My current interests lie in injury prevention and spatial analysis. I have some background in R and Python. In my free time, I enjoy cooking, reading, and crafting.
 
-## Education 
+## Education `r emo::ji("book")`
 
 **Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
 
@@ -27,7 +27,7 @@ MHS in Epidemiology \| August 2025 - May 2026 (expected)
 
 B.A. in Public Health Studies & Cognitive Science \| August 2021 - December 2024
 
-## Experience
+## Experience 
 
 **Johns Hopkins School of Nursing** \| Research Data Analyst \| March 2025 - August 2025
 
