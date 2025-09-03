@@ -8,6 +8,7 @@ links:
     url: "https://github.com/RozanneLim"
   - label: '`r fontawesome::fa("envelope")` Email'
     url: "mailto:rlim8@jh.edu"
+favicon: "apple-touch-icon.png" 
 output:
   postcards::trestles
 ---
